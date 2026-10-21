@@ -6,7 +6,7 @@ import java.net.URL
 
 object Api {
     // >>> PUT YOUR RENDER URL HERE (no slash at the end) <<<
-    const val BASE = "https://YOUR-SERVER.onrender.com"
+    const val BASE = "https://gameshield-api.onrender.com"
 
     class Result(val code: Int, val json: JSONObject)
 
